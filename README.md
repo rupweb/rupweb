@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Rupert 👋
+
+I’m a Java / C# developer & support guy who usually works on [FIX engines] (https://www.fixtrading.org/implementation-guide) or [SWIFT implementations] (https://www.swift.com/your-needs/data-and-technology/cloud)
+My website is [here](https://www.webstersystems.co.uk)
+I'm currently mastering HTML, CSS & JS web development for Browser UI's
+
+How to reach me: email rupert@webstersystems.co.uk
+
+Fun fact: I play church organ music
 
 <!--
 **rupweb/rupweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
