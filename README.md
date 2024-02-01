@@ -10,6 +10,8 @@ How to reach me: rupert@webstersystems.co.uk
 
 Fun fact: I play church organ music
 
+![image](https://github.com/rupweb/rupweb/assets/4050471/445484c4-7424-46db-810b-f8e462174a5e)
+
 <!--
 **rupweb/rupweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
