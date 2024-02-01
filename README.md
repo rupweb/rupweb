@@ -6,7 +6,7 @@ My website is [here](https://www.webstersystems.co.uk)
 
 I'm currently mastering HTML, CSS & JS web development for Browser UI's
 
-How to reach me: email rupert@webstersystems.co.uk
+How to reach me: rupert@webstersystems.co.uk
 
 Fun fact: I play church organ music
 
