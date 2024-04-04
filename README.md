@@ -14,7 +14,7 @@ Fun fact: I play church organ music
 
 Sign my petition with this QR code
 
-![qr-code-small](https://github.com/rupweb/rupweb/assets/4050471/2907b799-5499-44c0-9721-1235fa26fa52)
+[![qr-code-small](https://github.com/rupweb/rupweb/assets/4050471/2907b799-5499-44c0-9721-1235fa26fa52)](https://petition1.netlify.app/)
 
 
 <!--
