@@ -12,6 +12,11 @@ Fun fact: I play church organ music
 
 ![image](https://github.com/rupweb/rupweb/assets/4050471/445484c4-7424-46db-810b-f8e462174a5e)
 
+Sign my petition with this QR code
+
+![qr-code-small](https://github.com/rupweb/rupweb/assets/4050471/2907b799-5499-44c0-9721-1235fa26fa52)
+
+
 <!--
 **rupweb/rupweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
