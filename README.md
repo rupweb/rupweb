@@ -15,7 +15,7 @@ Fun fact: I play church organ music
 ## GitHub Stats
 
 <div align="center">
-    https://github-readme-stats.vercel.app/api?username=rupweb&show_icons=true&theme=radical
+    [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupweb)](https://github.com/rupweb/github-readme-stats)
     https://github-readme-stats.vercel.app/api/top-langs/?username=rupweb&layout=compact&theme=radical
     https://streak-stats.demolab.com?user=rupweb&theme=radical
     <img src="https://github-profile-trophy.vercel.app?username=rupweb&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
