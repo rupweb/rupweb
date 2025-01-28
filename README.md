@@ -10,7 +10,7 @@ How to reach me: rupert@webstersystems.co.uk
 
 Fun fact: I play church organ music
 
-![image](https://github.com/user-attachments/assets/1e4f6cbb-5a5f-45db-92c0-ec93dafc4395)
+<img src="https://github.com/user-attachments/assets/1e4f6cbb-5a5f-45db-92c0-ec93dafc4395" alt="image" width="200">
 
 ## GitHub Stats
 
