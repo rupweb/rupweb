@@ -4,7 +4,7 @@ I’m a Java / C# developer & support guy who usually works on [FIX engines](htt
 
 My website is [here](https://www.webstersystems.co.uk)
 
-I'm currently mastering [FIX SBE](https://aeron.io/docs/simple-binary-encoding/basic-sample/#defining-a-simple-set-of-messages) Simple Binary Encoding and Aeron messaging. 
+I'm currently working for a great currency overlay management firm https://milltech.com/
 
 How to reach me: rupert@webstersystems.co.uk
 
