@@ -4,7 +4,7 @@ I’m a Java / C# developer & support guy who usually works on [FIX engines](htt
 
 My website is [here](https://www.webstersystems.co.uk)
 
-I'm currently working for a great currency overlay management firm https://milltech.com/
+I'm currently working for [MillTech](https://milltech.com/) a great currency overlay management firm 
 
 How to reach me: rupert@webstersystems.co.uk
 
